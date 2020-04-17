@@ -1,0 +1,24 @@
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\bin\Debug\Basic Line Chart Demo.exe.config
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\bin\Debug\Basic Line Chart Demo.exe
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\bin\Debug\Basic Line Chart Demo.pdb
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\bin\Debug\LiveCharts.dll
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\bin\Debug\LiveCharts.pdb
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\bin\Debug\LiveCharts.xml
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\obj\Debug\Basic Line Chart Demo.csprojAssemblyReference.cache
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\obj\Debug\MainPage.g.cs
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\obj\Debug\MainWindow.g.cs
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\obj\Debug\App.g.cs
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\obj\Debug\Basic Line Chart Demo_MarkupCompile.cache
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\obj\Debug\Basic Line Chart Demo_MarkupCompile.lref
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\obj\Debug\MainPage.baml
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\obj\Debug\MainWindow.baml
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\obj\Debug\Basic Line Chart Demo.g.resources
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\obj\Debug\Basic_Line_Chart_Demo.Properties.Resources.resources
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\obj\Debug\Basic Line Chart Demo.csproj.GenerateResource.cache
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\obj\Debug\Basic Line Chart Demo.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\obj\Debug\Basic Line Chart Demo.csproj.CopyComplete
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\obj\Debug\Basic Line Chart Demo.exe
+C:\Users\eduar\OneDrive\Documentos\Projects\WPF projects\Basic Line Chart Demo\obj\Debug\Basic Line Chart Demo.pdb
